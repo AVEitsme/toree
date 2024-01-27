@@ -4,10 +4,10 @@
 3. Set $SPARK_HOME environment variable (Optional).
 4. Run following commands:
 ```bash
-python3 -m venv .scala-venv
+python3 -m venv .toree-venv
 ```
 ```bash
-source .scala-venv/bin/activate
+source .toree-venv/bin/activate
 ```
 ```bash
 pip install jupyter toree
