@@ -1,4 +1,4 @@
-# Apache-toree run
+# [Apache-toree](https://toree.apache.org/) run
 1. Install java.
 2. Install apache-spark.
 3. Set $SPARK_HOME environment variable (Optional).
